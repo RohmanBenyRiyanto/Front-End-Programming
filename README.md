@@ -1,3 +1,3 @@
 # Front-End-Programming
 
-## Mata Kulia Semester 7 ITTP
+## Mata Kuliah Semester 7 ITTP
